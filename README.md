@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a fullstack developer at <a href="https://quarkspark.co">Quarkspark Technologies</a>, helping in project <a href="https://clickargo.com">Clickargo</a>
+
+Here's where I try and most likely break things 👍
+
+📫 How to reach me: 
+<br>Tweet me on <a href="https://twitter.com/tjungyuni">@tjungyuni</a>
+<br>Instagram <a href="https://instagram.com/yunitjung">@yunitjung</a>
+
 <!--
 **yunitjung/yunitjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
