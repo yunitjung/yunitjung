@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a fullstack developer at <a href="https://quarkspark.co">Quarkspark Technologies</a>, helping in project <a href="https://clickargo.com">Clickargo</a>
+I'm a backend developer at <a href="https://hydrax.io">Hydra X</a>
 
 Here's where I try and most likely break things 👍
 
